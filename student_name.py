@@ -1,7 +1,7 @@
 names = ['Mj', 'Michael', 'Angelo', 'Ram', 'Randy', 'Carl', 'Miguel', 'Gabriel', 'Adrian ', 'Justin', 'Christian', 'Sherwin', 'Danny', 'Paul', 'Victor', 'Louigi', 'Mario', 'Francis', 'Jitomi', 'Karlo']
 print(names)
 
-print("14th name is: ", names[14])
+print("15th name is: ", names[14])
 
 names[11] = ('John')
 print(names)
